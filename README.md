@@ -6,6 +6,11 @@
 
 A PowerShell script that registers `.ps1` files in the Windows Explorer **"New"** context menu (`ShellNew`), allowing you to create new PowerShell scripts directly from **Right-click > New > Script do Windows PowerShell**, just like you would with a `.txt` or `.docx` file.
 
+**Explorer "New" menu showing the PowerShell script option:**
+
+![Explorer New menu showing the PowerShell script option](https://github.com/user-attachments/assets/0b463fa2-c5f1-4cd0-bfa2-c22a65080ed9)
+
+
 ## What it does
 
 When executed, `Default_Icon_PowerShell.ps1`:
@@ -22,7 +27,8 @@ After the script finishes, both `new_powershell.reg` and `template.ps1` will exi
 
 You can personalize `template.ps1` (located at `C:\Windows\ShellNew\template.ps1`) with your favorite commands, snippets, or boilerplate code. From that point on, every new `.ps1` file you create through the Explorer's "New" menu will automatically come pre-filled with that content.
 
-## Requirements
+## Requirements!
+
 
 - Windows 10/11
 - PowerShell 5.1+
