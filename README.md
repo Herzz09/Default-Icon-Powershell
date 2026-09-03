@@ -8,7 +8,7 @@ A PowerShell script that registers `.ps1` files in the Windows Explorer **"New"*
 
 **Explorer "New" menu showing the PowerShell script option:**
 
-![Explorer New menu showing the PowerShell script option](https://github.com/user-attachments/assets/0b463fa2-c5f1-4cd0-bfa2-c22a65080ed9)
+![Explorer New menu showing the PowerShell script option](https://github.com/user-attachments/assets/62f27c54-9986-42a6-a262-a482dedc2815)
 
 
 ## What it does
