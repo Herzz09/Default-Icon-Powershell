@@ -8,7 +8,7 @@ A PowerShell script that registers `.ps1` files in the Windows Explorer **"New"*
 
 ## What it does
 
-When executed, `Default_Icon_Powershell.ps1`:
+When executed, `Default_Icon_PowerShell.ps1`:
 
 1. Self-elevates to Administrator (required to write to `C:\Windows\ShellNew`).
 2. Creates the `C:\Windows\ShellNew` folder if it doesn't already exist.
